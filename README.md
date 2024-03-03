@@ -31,6 +31,7 @@
 
 ### 전상훈
 - JeonSangHoon0711/2023-summer-algorithm
+- https://github.com/JeonSangHoon0711/2023-summer-algorithm/tree/main
 
 ### 최은수
 - cvoi8611/alg_study1
